@@ -46,7 +46,7 @@ By default, it uses number_scales = 0, overlap_pixels=10, scaling_factor=.8, and
 	b) outputDir is the path that the final output video is written into.
 	c) model is the name of the classifier model: mod2 if loaded from startup.m
 
-***********************EXAMPLES****************************************
+***********************************EXAMPLES****************************************
 
 1) EXAMPLE FOR PEDESTRIAN DETECTION:
 	detect_pedestrian('../Files/test/pos/crop_000012.png',mod2,2,16,0.75,0);
